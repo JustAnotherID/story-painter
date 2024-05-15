@@ -18,7 +18,7 @@
     </n-layout-header>
     <n-layout-content class="bg-slate-100 dark:bg-inherit">
       <div style="width: 1000px; margin: 0 auto; max-width: 100%; padding-bottom: 3rem">
-        <n-text type="info" italic class="block text-center my-1">SealDice骰QQ群 524364253 [群介绍中有其余3群]</n-text>
+        <n-text type="info" italic class="block text-center my-1">&lt;JustAnotherID 的修改版&gt;</n-text>
         <option-view></option-view>
         <n-spin :show="loading">
           <template #description>
